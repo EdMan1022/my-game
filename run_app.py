@@ -1,5 +1,5 @@
-from app import App
+from app import PhysicsApp
 
 
-app = App()
+app = PhysicsApp()
 app.run()
